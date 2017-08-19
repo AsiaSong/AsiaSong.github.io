@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fast Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-21 09:58+0100\n"
+"PO-Revision-Date: 2012-05-26 23:38+0800\n"
+"Last-Translator: Wopos.ORG <5devs@163.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comment.php:13
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: ../comment.php:20
+msgid "reply"
+msgstr "回复"
+
+#: ../comment.php:24
+msgid "edit"
+msgstr "编辑"
+
+#: ../comments.php:33
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: ../comments.php:33
+#, php-format
+msgid "Leave a reply to %s"
+msgstr "留下一个回复到%s"
+
+#: ../comments.php:35
+msgid "cancel"
+msgstr "取消"
+
+#: ../comments.php:37
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "登录 <a href=\"%1$s\">%2$s</a>."
+
+#: ../comments.php:38
+msgid "Log out of this account"
+msgstr "注销账户"
+
+#: ../comments.php:38
+msgid "Log out &raquo;"
+msgstr "注销&raquo;"
+
+#: ../comments.php:40
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "你必须<a href=\"%s\">登录</a>发表评论。"
+
+#: ../comments.php:46
+msgid "name"
+msgstr "名称"
+
+#: ../comments.php:47
+msgid "email"
+msgstr "邮箱"
+
+#: ../comments.php:48
+msgid "website"
+msgstr "网站"
+
+#: ../comments.php:51
+msgid "Submit comment"
+msgstr "提交评论"
+
+#: ../functions.php:230
+msgid "Main navigation menu"
+msgstr "主导航菜单"
+
+#: ../functions.php:231
+msgid "Footer navigation menu"
+msgstr "页脚导航菜单"
+
+#: ../functions.php:236
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: ../functions.php:322
+#: ../options.php:13
+msgid "Fast Blog Options"
+msgstr "主题设选项置"
+
+#: ../functions.php:322
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: ../functions.php:397
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr "这是一篇受密码保护的文章。要查看它，请在下面输入密码："
+
+#: ../functions.php:422
+msgid "Please enter your name."
+msgstr "请输入你的名字。"
+
+#: ../functions.php:426
+msgid "Invalid email address."
+msgstr "无效的电子邮件地址。"
+
+#: ../functions.php:430
+msgid "Please write your comment."
+msgstr "请写下你的评论。"
+
+#: ../functions.php:462
+msgid "Message sent."
+msgstr "消息发送。"
+
+#: ../functions.php:466
+msgid "Error occured. Message couldn't be sent."
+msgstr "发生错误，无法发送消息。"
+
+#: ../header.php:53
+#: ../header.php:119
+msgid "search"
+msgstr "搜索"
+
+#: ../header.php:68
+msgid "Your browser (Internet Explorer 6) is <strong>out of date</strong>. It has known <strong>security flaws</strong> and may <strong>not display all features</strong> of this and other websites. <a href=\"http://www.browser-update.org/update.html\">Learn how to update your browser</a>."
+msgstr "您的浏览器（Internet Explorer 6）<strong>已过时</strong>。据了解IE6有非常多的<strong>安全漏洞</strong>并可能<strong>不能显示某些功能</strong>和正常显示网站。<a href=\"http://www.browser-update.org/update.html\">了解如何更新您的浏览器</a>。"
+
+#: ../index.php:20
+msgid "Oops, the page you are trying to reach doesn't exist."
+msgstr "哎呀，您正试图达到不存在的页面。"
+
+#: ../index.php:22
+#, php-format
+msgid "Search results for &#8216;%1$s&#8217; keyword"
+msgstr "搜索结果 &#8216;%1$s&#8217; 关键词"
+
+#: ../index.php:24
+#, php-format
+msgid "Posts tagged &#8216;%1$s&#8217;"
+msgstr "文章标签 &#8216;%1$s&#8217;"
+
+#: ../index.php:26
+#: ../index.php:28
+#: ../index.php:30
+#, php-format
+msgid "Archive for %1$s"
+msgstr "存档%1$s"
+
+#: ../index.php:41
+msgid "Older posts"
+msgstr "上一页"
+
+#: ../index.php:42
+msgid "Newer posts"
+msgstr "下一页"
+
+#: ../loop.php:25
+#: ../loop.php:30
+#: ../options.php:102
+msgid "Post"
+msgstr "文章"
+
+#: ../loop.php:30
+#: ../meta.php:29
+#, php-format
+msgid "View all posts in %s"
+msgstr "查看所有文章 %s"
+
+#: ../loop.php:71
+msgid "More"
+msgstr "更多"
+
+#: ../meta.php:20
+msgid "Today"
+msgstr "今天"
+
+#: ../meta.php:41
+#: ../options.php:113
+#: ../options.php:116
+msgid "Short URL"
+msgstr "短网址"
+
+#: ../meta.php:43
+msgid "Edit"
+msgstr "编辑"
+
+#: ../toolbox.php:1495
+#, php-format
+msgid "New version of %1$s is available!"
+msgstr "主题新版本%1$s下载!"
+
+#: ../toolbox.php:1496
+msgid "Current version"
+msgstr "当前版本"
+
+#: ../toolbox.php:1497
+msgid "Available version"
+msgstr "可用的版本"
+
+#: ../toolbox.php:1499
+msgid "Important"
+msgstr "重要"
+
+#: ../toolbox.php:1502
+msgid "Go to download page"
+msgstr "进入下载页面"
+
+#: ../toolbox.php:1503
+msgid "Remind me in 5 days"
+msgstr "在5天内提醒我"
+
+#: ../toolbox.php:1504
+msgid "Hide this message"
+msgstr "隐藏此消息"
+
+#: ../tpl-contact-form.php:29
+msgid "Name"
+msgstr "名称"
+
+#: ../tpl-contact-form.php:30
+msgid "Email"
+msgstr "邮箱"
+
+#: ../tpl-contact-form.php:31
+msgid "Subject"
+msgstr "标题"
+
+#: ../tpl-contact-form.php:33
+msgid "Send"
+msgstr "发送"
+
+#: ../widgets.php:20
+#: ../widgets.php:70
+msgid "Twitter"
+msgstr "Twitter（推特）"
+
+#: ../widgets.php:23
+msgid "Twitter stream."
+msgstr "Twitter流."
+
+#: ../widgets.php:70
+msgid "Follow me!"
+msgstr "跟我来！"
+
+#: ../widgets.php:78
+msgid "ago"
+msgstr "前"
+
+#: ../widgets.php:112
+#: ../widgets.php:214
+msgid "Username"
+msgstr "用户名"
+
+#: ../widgets.php:113
+msgid "Tweets count"
+msgstr "鸣叫计数"
+
+#: ../widgets.php:114
+#: ../widgets.php:216
+msgid "Update interval"
+msgstr "更新间隔"
+
+#: ../widgets.php:114
+msgid "Tweets receiving interval (in minutes)."
+msgstr "鸣叫接收间隔（分钟）。"
+
+#: ../widgets.php:132
+#: ../widgets.php:180
+msgid "Flickr"
+msgstr "Flickr照片"
+
+#: ../widgets.php:135
+msgid "Flickr photo stream."
+msgstr "Flickr照片。"
+
+#: ../widgets.php:180
+msgid "My photos"
+msgstr "我的照片"
+
+#: ../widgets.php:215
+msgid "Photos count"
+msgstr "照片数"
+
+#: ../widgets.php:216
+msgid "Photos receiving interval (in minutes)."
+msgstr "照片接收间隔（分钟）。"
+
+#: ../widgets.php:249
+msgid "Social media"
+msgstr "社交媒体"
+
+#: ../widgets.php:252
+msgid "Social media icons."
+msgstr "社交媒体图标。"
+
+#: ../widgets.php:315
+#: ../widgets.php:392
+msgid "Title"
+msgstr "标题"
+
+#: ../widgets.php:321
+msgid "Icon & URL"
+msgstr "图标和连接"
+
+#: ../widgets.php:342
+msgid "Scheme switcher"
+msgstr "主题颜色转换器"
+
+#: ../widgets.php:345
+msgid "Allows visitors to change site's color scheme."
+msgstr "允许用户更改网站的配色方案。"
+
